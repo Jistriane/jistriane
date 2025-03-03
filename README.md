@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me mechamo Jistriane Brunielli, sou engenheira de computação, a cada dia que passa aprendo mais sobre tecnologias de programação. Sou apaixonada por tecnologia. Atualamente estou desenvolvendo habilidaddes em WEB3, Blockchain, Smartcontracts e IA pela NEARX .</p>
+<p align="left">Me mechamo Jistriane Brunielli, sou engenheira de computação, Tambem sou tecnica em eletroeletronica, a cada dia que passa aprendo mais sobre tecnologias de programação. Sou apaixonada por tecnologia. Atualamente estou desenvolvendo habilidaddes em WEB3, Blockchain, Smartcontracts e IA pela NEARX .</p>
 
 ###
 
@@ -32,6 +32,10 @@
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
