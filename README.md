@@ -48,10 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jistriane/jistriane/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Midi</h2>
 
 ###
