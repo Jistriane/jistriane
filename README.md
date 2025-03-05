@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me mechamo Jistriane Brunielli, sou engenheira de computação, Tambem sou tecnica em eletroeletronica, a cada dia que passa aprendo mais sobre tecnologias de programação. Sou apaixonada por tecnologia. Atualamente estou desenvolvendo habilidaddes em WEB3, Blockchain, Smartcontracts e IA pela NEARX .</p>
+<p align="left">Me mechamo Jistriane Brunielli, sou engenheira de computação, tambem sou tecnica em eletroeletronica, a cada dia que passa aprendo mais sobre tecnologias de programação. Sou apaixonada por tecnologia. Atualamente estou desenvolvendo habilidaddes em WEB3, Blockchain, Smartcontracts e IA pela NEARX .</p>
 
 ###
 
