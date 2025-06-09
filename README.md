@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Jistriane Brunielli, sou engenheira de computação, também sou técnica em eletroeletrônica, a cada dia que passa aprendo mais sobre tecnologias de programação. Sou apaixonada por tecnologia. Atualmente estou desenvolvendo habilidades em WEB3, Blockchain, Smartcontracts e IA pela NEARX .</p>
+<p align="left">My name is Jistriane Brunielli, I am a computer engineer, I am also an electronics technician, and every day I learn more about programming technologies. I am passionate about technology. I am currently developing skills in WEB3, Blockchain, Smartcontracts and AI through NEARX.</p>
 
 ###
 
