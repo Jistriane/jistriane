@@ -1,4 +1,4 @@
-<p align="left">My name is Jistriane Brunielli, I am a Computer Engineer, I am also an Electronics Technician, and every day I learn more about programming technologies. I am passionate about technology. I am currently developing skills in WEB3, Blockchain, Smartcontracts and AI through NEARX.</p>
+<p align="left">Senior Blockchain Architect | Smart Contracts Solidity and Rust | DeFi Solutions | Web3 Full Stack | 11+ Years.</p>
 
 ###
 
