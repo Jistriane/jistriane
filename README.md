@@ -1,4 +1,4 @@
-<p align="left">Senior Blockchain Architect | Smart Contracts Solidity and Rust | DeFi Solutions | Web3 Full Stack | 11+ Years.</p>
+<p align="left">Senior Blockchain Architect | Smart Contracts Solidity and Rust | DeFi Solutions | Web3 Full Stack | .</p>
 
 ###
 
