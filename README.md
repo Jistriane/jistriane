@@ -1,4 +1,4 @@
-<p align="left">Senior Blockchain Architect | Smart Contracts Solidity - Rust - AssemblyScript - WebAssembly (Wasm) | DeFi Solutions | Web3 Full Stack | IA | Stellar Ambassador @StellarOrg @Stellar_Brazil .</p>
+<p align="left">Senior Blockchain Architect | Smart Contracts Solidity - Rust - AssemblyScript - WebAssembly (Wasm) - Move | DeFi Solutions | Web3 Full Stack | IA | Stellar Ambassador @StellarOrg @Stellar_Brazil .</p>
 
 ###
 
