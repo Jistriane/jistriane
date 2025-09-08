@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 Hello, I'm Jistriane</h1>
 <h3 align="center">🌐 Senior Blockchain Architect | Web3 Full Stack | Stellar Ambassador</h3>
 
@@ -89,4 +88,3 @@ That’s why I dedicate my work to uniting **computer science, electronics, AI, 
 <div align="center">
   <i>🚀 "Leading the future of decentralized finance by empowering innovation, one smart contract at a time."</i>
 </div>
-```
