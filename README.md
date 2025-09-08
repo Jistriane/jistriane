@@ -1,11 +1,18 @@
+```markdown
 <h1 align="center">👋 Hello, I'm Jistriane</h1>
 <h3 align="center">🌐 Senior Blockchain Architect | Web3 Full Stack | Stellar Ambassador</h3>
 
-<p align="center">
-  <b>Smart Contracts:</b> Solidity · Rust · Move · AssemblyScript · WASM <br>
-  <b>Expertise:</b> DeFi · AI · DApps · Cloud · Full Stack Development <br>
-  🚀 <i>Stellar Ambassador @StellarOrg · @Stellar_Brazil</i>
-</p>
+---
+
+### 📖 My Leadership Story  
+
+From computer engineering to the decentralized world, my journey has always been guided by **curiosity, building, and leadership**.  
+Every programming language mastered, each architecture designed, and every smart contract deployed — all have been part of the mission to **inspire teams** and **build solutions that challenge the status quo**.  
+
+I believe that **leadership is not just about delivering code, but about paving the way so others can innovate too**.  
+That’s why I dedicate my work to uniting **computer science, electronics, AI, and blockchain** into new ecosystems that truly make an impact.  
+
+💡 **"Building the future of decentralized finance, one smart contract at a time."**
 
 ---
 
@@ -80,5 +87,6 @@
 ---
 
 <div align="center">
-  <i>💡 "Building the future of decentralized finance, one smart contract at a time."</i>
+  <i>🚀 "Leading the future of decentralized finance by empowering innovation, one smart contract at a time."</i>
 </div>
+```
