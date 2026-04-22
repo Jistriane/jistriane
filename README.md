@@ -8,7 +8,7 @@
 From **computer engineering to architecting decentralized ecosystems**, my journey has been driven by one goal:  
 **transform complex ideas into scalable, secure, and high-impact solutions.**  
 
-With over a decade of experience in software architecture, I specialize in designing **mission-critical DeFi systems**, integrating **AI with blockchain**, and unlocking new financial paradigms through **tokenization and Real World Assets (RWA)**.  
+I specialize in designing **mission-critical DeFi systems**, integrating **AI with blockchain**, and unlocking new financial paradigms through **tokenization and Real World Assets (RWA)**.  
 
 I don't just build systems — I design **ecosystems that process millions in TVL**, empower communities, and redefine how value flows globally.  
 
