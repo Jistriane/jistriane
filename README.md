@@ -10,7 +10,7 @@ From **computer engineering to architecting decentralized ecosystems**, my journ
 
 I specialize in designing **mission-critical DeFi systems**, integrating **AI with blockchain**, and unlocking new financial paradigms through **tokenization and Real World Assets (RWA)**.  
 
-I don't just build systems — I design **ecosystems that process millions in TVL**, empower communities, and redefine how value flows globally.  
+I don't just build systems I design **ecosystems that process millions in TVL**, empower communities, and redefine how value flows globally.  
 
 I believe true leadership is about:  
 -  Enabling innovation at scale  
