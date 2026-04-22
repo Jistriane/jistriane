@@ -109,5 +109,5 @@ I believe true leadership is about:
 ---
 
 <div align="center">
-  <i>⚡ "Building intelligent decentralized systems that connect real-world value to the future of finance."</i>
+  <i> "Building intelligent decentralized systems that connect real-world value to the future of finance."</i>
 </div>
