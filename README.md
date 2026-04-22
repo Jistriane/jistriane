@@ -82,15 +82,15 @@ I believe true leadership is about:
 
 ###  What I Build  
 
-- 🔹 DeFi protocols with high TVL and production-grade architecture  
-- 🔹 AI-powered dApps with autonomous decision-making  
-- 🔹 Tokenization platforms for Real World Assets (RWA)  
-- 🔹 Secure and compliant Web3 infrastructure  
-- 🔹 Cross-chain and oracle-integrated systems (Chainlink)  
+-  DeFi protocols with high TVL and production-grade architecture  
+-  AI-powered dApps with autonomous decision-making  
+-  Tokenization platforms for Real World Assets (RWA)  
+-  Secure and compliant Web3 infrastructure  
+-  Cross-chain and oracle-integrated systems (Chainlink)  
 
 ---
 
-### 🌍 Let's Connect  
+###  Let's Connect  
 <div align="center">
   <a href="https://www.linkedin.com/in/jibso/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
