@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jistriane</h1>
-<h3 align="center"> Senior Blockchain Architect | DeFi • AI • RWA | Web3 Full Stack | Stellar Ambassador</h3>
+<h3 align="center"> Senior Blockchain Architect & Engeneer | DeFi • AI • RWA | Web3 Full Stack | Stellar Ambassador</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 I’m a **Senior Blockchain Architect and Computer Engineer** with 10+ years of experience designing **high-impact, mission-critical systems**.  
 
 My work sits at the intersection of:  
-⚡ **DeFi** • 🤖 **Artificial Intelligence** • ⛓️ **Blockchain** • **Tokenization & RWA**  
+**DeFi** •  **Artificial Intelligence** •  **Blockchain** • **Tokenization & RWA**  
 
 I specialize in transforming complex ideas into **secure, scalable, and decentralized solutions** — from protocol design to full-stack dApps operating with **millions in TVL**.  
 
@@ -55,7 +55,7 @@ I specialize in transforming complex ideas into **secure, scalable, and decentra
 
 ---
 
-### ⛓️ Blockchain & Protocols  
+### Blockchain & Protocols  
 
 - Ethereum • EVM Ecosystem  
 - Stellar ( Ambassador)  
@@ -64,7 +64,7 @@ I specialize in transforming complex ideas into **secure, scalable, and decentra
 
 ---
 
-###  What I Build  
+### What I Build  
 
 - Intelligent DeFi Protocols  
 - Tokenized Asset Platforms (RWA)  
@@ -74,7 +74,7 @@ I specialize in transforming complex ideas into **secure, scalable, and decentra
 
 ---
 
-###  Let's Connect  
+### Let's Connect  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jibso/" target="_blank">
