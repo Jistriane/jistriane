@@ -1,33 +1,33 @@
 <h1 align="center">👋 Hi, I'm Jistriane</h1>
-<h3 align="center">🚀 Senior Blockchain Architect | DeFi • AI • RWA | Web3 Full Stack | Stellar Ambassador</h3>
+<h3 align="center"> Senior Blockchain Architect | DeFi • AI • RWA | Web3 Full Stack | Stellar Ambassador</h3>
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 
 I’m a **Senior Blockchain Architect and Computer Engineer** with 10+ years of experience designing **high-impact, mission-critical systems**.  
 
 My work sits at the intersection of:  
-⚡ **DeFi** • 🤖 **Artificial Intelligence** • ⛓️ **Blockchain** • 🪙 **Tokenization & RWA**  
+⚡ **DeFi** • 🤖 **Artificial Intelligence** • ⛓️ **Blockchain** • **Tokenization & RWA**  
 
 I specialize in transforming complex ideas into **secure, scalable, and decentralized solutions** — from protocol design to full-stack dApps operating with **millions in TVL**.  
 
-💡 I don’t just build systems — I design **ecosystems that enable new financial paradigms**.  
+ I don’t just build systems — I design **ecosystems that enable new financial paradigms**.  
 
 ---
 
-### 🔥 Core Expertise  
+###  Core Expertise  
 
-- 🏦 **DeFi Architecture**: DEX, AMM, Lending, LP, TVL optimization  
-- 🪙 **Tokenization & RWA**: Real-world asset integration & compliance layers  
-- 🔐 **Security & Identity**: KYC/AML, MPC, DID, SSI  
-- 🤖 **AI + Blockchain**: Risk analysis, intelligent dApps, automation pipelines  
-- 🏛️ **DAO Design**: Governance, token economics, incentive mechanisms  
-- ⚙️ **Scalable Systems**: High-availability, low-latency Web3 infrastructure  
+-  **DeFi Architecture**: DEX, AMM, Lending, LP, TVL optimization  
+-  **Tokenization & RWA**: Real-world asset integration & compliance layers  
+-  **Security & Identity**: KYC/AML, MPC, DID, SSI  
+-  **AI + Blockchain**: Risk analysis, intelligent dApps, automation pipelines  
+-  **DAO Design**: Governance, token economics, incentive mechanisms  
+-  **Scalable Systems**: High-availability, low-latency Web3 infrastructure  
 
 ---
 
-### 🛠️ Tech Stack  
+###  Tech Stack  
 
 <div align="center">
 
@@ -58,13 +58,13 @@ I specialize in transforming complex ideas into **secure, scalable, and decentra
 ### ⛓️ Blockchain & Protocols  
 
 - Ethereum • EVM Ecosystem  
-- Stellar (🌟 Ambassador)  
+- Stellar ( Ambassador)  
 - Chainlink • Oracles & Automation  
 - Smart Contracts: Solidity, Rust, Move, Cairo, Wasm  
 
 ---
 
-### 🧩 What I Build  
+###  What I Build  
 
 - Intelligent DeFi Protocols  
 - Tokenized Asset Platforms (RWA)  
@@ -74,7 +74,7 @@ I specialize in transforming complex ideas into **secure, scalable, and decentra
 
 ---
 
-### 🌍 Let's Connect  
+###  Let's Connect  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jibso/" target="_blank">
