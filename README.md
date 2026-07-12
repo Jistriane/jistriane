@@ -18,7 +18,7 @@
 
 ---
 
-## My Mission & Leadership
+## 🚀 My Mission & Leadership
 
 From **computer engineering** to **architecting decentralized ecosystems**, my journey has been driven by one goal:
 **transform complex ideas into scalable, secure, and high-impact solutions.**
@@ -28,9 +28,9 @@ I specialize in designing **mission-critical DeFi systems**, integrating **AI wi
 I don't just build systems — I design **ecosystems that process millions in TVL**, empower communities, and redefine how value flows globally.
 
 I believe true leadership is about:
--  Enabling innovation at scale
--  Connecting AI + Blockchain for smarter systems
--  Creating financial inclusion through decentralization
+- 🌐 Enabling innovation at scale
+- 🤖 Connecting AI + Blockchain for smarter systems
+- 💰 Creating financial inclusion through decentralization
 
 > **"Engineering the convergence of AI, DeFi, and real-world assets to shape the future of finance."**
 >
@@ -38,7 +38,7 @@ I believe true leadership is about:
 
 ---
 
-##  Core Expertise
+## 🧠 Core Expertise
 
 | Área | Tecnologias / Conceitos |
 |---|---|
@@ -53,7 +53,7 @@ I believe true leadership is about:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I believe true leadership is about:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -111,7 +111,7 @@ I believe true leadership is about:
 
 ---
 
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -121,18 +121,18 @@ I believe true leadership is about:
 
 ---
 
-##  What I Build
+## 💡 What I Build
 
--  DeFi protocols with high TVL and production-grade architecture
--  AI-powered dApps with autonomous decision-making
--  Tokenization platforms for Real World Assets (RWA)
--  Secure and compliant Web3 infrastructure
--  Cross-chain and oracle-integrated systems (Chainlink)
--  Ecossistemas Stellar de pagamentos e ativos digitais
+- ⚡ DeFi protocols with high TVL and production-grade architecture
+- 🤖 AI-powered dApps with autonomous decision-making
+- 🏠 Tokenization platforms for Real World Assets (RWA)
+- 🔐 Secure and compliant Web3 infrastructure
+- 🔗 Cross-chain and oracle-integrated systems (Chainlink)
+- 🌟 Ecossistemas Stellar de pagamentos e ativos digitais
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jibso/" target="_blank">
