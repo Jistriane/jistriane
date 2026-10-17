@@ -1,352 +1,401 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     JISTRIANE · BLOCKCHAIN / WEB3 / AI
-     Visual identity: Midnight · Electric Cyan · Violet
-════════════════════════════════════════════════════════════════ -->
+<!-- ============================================================
+     JISTRIANE | DECENTRALIZED SYSTEMS ENGINEERING
+     GitHub-compatible HTML + Markdown.
+     External SVG services provide the neon visual treatment.
+     Review the proposed QA toolkit before publishing.
+============================================================= -->
 
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:6D28D9,100:00D2FF&height=220&section=header&text=JISTRIANE&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BLOCKCHAIN%20ARCHITECTURE%20%2F%20WEB3%20%2F%20AI&descSize=17&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:6D28D9,100:00D2FF&height=220&section=header&text=JISTRIANE&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BLOCKCHAIN%20%C2%B7%20AI%20%C2%B7%20DECENTRALIZED%20SYSTEMS&descSize=17&descAlignY=58"
     width="100%"
-    alt="Jistriane — Blockchain Architecture, Web3 e IA"
+    alt="Jistriane — Blockchain, AI, and Decentralized Systems"
   />
 
-  <a href="https://github.com/jistriane">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=1100&color=00D2FF&center=true&vCenter=true&width=850&height=65&lines=Ol%C3%A1%2C+eu+sou+Jistriane;Senior+Blockchain+Architect+%26+Engineer;Web3+%7C+DeFi+%7C+AI+%7C+RWA;Stellar+Ambassador;Arquitetura+segura.+Impacto+real."
-      width="100%"
-      alt="Apresentação animada de Jistriane"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=1200&color=00D2FF&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I%27m+Jistriane;Senior+Blockchain+Architect+%26+Engineer;Web3+%7C+DeFi+%7C+AI+%7C+Tokenization+%7C+RWA;Rust+%7C+Solidity+%7C+Move+%7C+Cairo+%7C+Wasm;Stellar+Ambassador;Engineering+Secure+%26+Scalable+Decentralized+Systems"
+    width="100%"
+    alt="Animated introduction to Jistriane's engineering profile"
+  />
 
-  <h3>🧬 Engenharia de sistemas descentralizados inteligentes</h3>
+  <h1>👋 Hello, I'm Jistriane</h1>
+
+  <h3>Senior Blockchain Architect & Engineer</h3>
 
   <p>
-    <strong>Senior Blockchain Architect & Engineer</strong><br />
-    Web3 Engineering · DeFi · Inteligência Artificial · Tokenização · RWA
+    <strong>
+      Web3 Engineering · DeFi · Artificial Intelligence · Tokenization · RWA
+    </strong>
+    <br />
+    🌟 Stellar Ambassador · 🌎 Brazil · 🧭 Independent Web3 / Blockchain Consulting
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/BLOCKCHAIN-ARCHITECT-0D1117?style=for-the-badge&logo=ethereum&logoColor=00D2FF" alt="Blockchain Architect" />
-    <img src="https://img.shields.io/badge/STELLAR-AMBASSADOR-0D1117?style=for-the-badge&logo=stellar&logoColor=FFFFFF" alt="Stellar Ambassador" />
-    <img src="https://img.shields.io/badge/WEB3-BUILDER-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3 Builder" />
+    <img src="https://img.shields.io/badge/BLOCKCHAIN-ARCHITECTURE-00D2FF?style=for-the-badge&labelColor=0D1117" alt="Blockchain Architecture" />
+    <img src="https://img.shields.io/badge/AI-POWERED_SYSTEMS-A78BFA?style=for-the-badge&labelColor=0D1117" alt="AI-powered systems" />
+    <img src="https://img.shields.io/badge/WEB3-SECURE_BY_DESIGN-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Web3 — Secure by Design" />
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/jibso/">
-      <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge" alt="Conectar no LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&labelColor=0D1117" alt="Connect on LinkedIn" />
     </a>
     <a href="https://x.com/jistriane">
-      <img src="https://img.shields.io/badge/X-FOLLOW-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Seguir no X" />
+      <img src="https://img.shields.io/badge/X-FOLLOW-00D2FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="Follow on X" />
+    </a>
+    <a href="https://medium.com/@jistriane">
+      <img src="https://img.shields.io/badge/Medium-READ-A78BFA?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" alt="Read on Medium" />
     </a>
     <a href="https://www.instagram.com/jibso87/">
-      <img src="https://img.shields.io/badge/Instagram-FOLLOW-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Seguir no Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-CONNECT-F472B6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Connect on Instagram" />
     </a>
   </p>
 
   <img
-    src="https://komarev.com/ghpvc/?username=jistriane&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS"
-    alt="Contador de visualizações do perfil"
+    src="https://komarev.com/ghpvc/?username=Jistriane&color=00D2FF&style=flat-square&label=PROFILE+VIEWS"
+    alt="Profile view counter"
   />
+
+  <p><sub>CODE · TRUST · IMPACT</sub></p>
 
 </div>
 
 ---
 
-## 🛰️ Missão & liderança
+## 🛰️ Mission & Technical Leadership
 
-Da **engenharia de computação** à **arquitetura de ecossistemas descentralizados**, minha missão é transformar complexidade em soluções **seguras, escaláveis e de alto impacto**.
+I architect decentralized systems that connect **technical depth, security, and real-world value**.
 
-Meu foco está na arquitetura de **sistemas DeFi de missão crítica**, na integração entre **IA e blockchain** e na construção de infraestrutura para **tokenização e Real World Assets — RWA**.
+My work spans **mission-critical DeFi architecture**, **AI-integrated Web3 applications**, and **tokenization infrastructure for Real World Assets**.
 
-Mais do que desenvolver aplicações, projeto ecossistemas: smart contracts, infraestrutura, integrações, governança e experiências que conectam tecnologia a valor real.
+From smart contracts to backend services, infrastructure, governance, and integrations, I approach engineering as an interconnected system—not a collection of isolated components.
 
-| Pilar | Direção |
+| Engineering pillar | Focus |
 | :--- | :--- |
-| 🌐 **Escalabilidade** | Arquitetura preparada para crescimento e operação em produção |
-| 🛡️ **Segurança** | Modelagem de ameaças, revisão de contratos e controles de acesso |
-| 🤖 **Inteligência** | IA aplicada à análise de risco, automação e sistemas Web3 |
-| 💎 **Valor real** | Tokenização, infraestrutura financeira e inclusão |
-| 🧭 **Liderança** | Decisões técnicas alinhadas a produto, negócio e comunidade |
+| 🌐 **Scalability** | Architecture designed for growth, reliable integrations, and production operation |
+| 🛡️ **Security** | Threat modeling, contract review, access control, and explicit trust boundaries |
+| 🤖 **Intelligence** | AI-assisted risk analysis and automation with verifiable controls |
+| 🏛️ **Real-world value** | Tokenization, asset lifecycle management, and financial infrastructure |
+| 🧭 **Technical leadership** | Architecture decisions aligned with product, business, and ecosystem needs |
 
-> **Engenharia na convergência entre IA, DeFi e ativos do mundo real.**
->
-> Construindo o futuro das finanças descentralizadas, um smart contract de cada vez.
+> **Engineering at the intersection of AI, DeFi, and real-world assets.**
 
 ---
 
-## 🧠 Expertise · Architecture Map
+## 🧠 Architecture & Core Expertise
 
-| Domínio | Tecnologias & conceitos |
+| Domain | Technologies & engineering concepts |
 | :--- | :--- |
 | 🔐 **Smart Contracts** | Solidity · Rust · Move · Cairo · WebAssembly |
-| ⛓️ **Blockchain Ecosystems** | Ethereum · Stellar · Chainlink · Redes EVM |
-| 🖥️ **Full Stack Web3** | React · Next.js · Node.js · Python · Go · Web3.js |
-| 🤖 **AI + Blockchain** | dApps inteligentes · Análise de risco · Automação descentralizada |
-| 💱 **DeFi Systems** | DEX · AMM · Liquidity Pools · Lending · Estratégias de liquidez |
-| 🏛️ **Tokenização & RWA** | Ativos on-chain · Ciclo de vida de tokens · Requisitos de compliance |
-| 🛡️ **Segurança & controles** | MPC · Estratégias de auditoria · Integrações KYC/AML |
-| 🗳️ **Governança & identidade** | DAO · DID · SSI · Verifiable Credentials |
+| ⛓️ **Blockchain Ecosystems** | Ethereum · Stellar · Chainlink · EVM-compatible networks |
+| 💱 **DeFi Systems** | DEX · AMM · Liquidity pools · Lending · Liquidity strategies |
+| 🏛️ **Tokenization & RWA** | On-chain assets · Token lifecycle management · Compliance integrations |
+| 🤖 **AI + Blockchain** | Intelligent dApps · Risk analysis · Decentralized automation |
+| 🖥️ **Full-Stack Web3** | React · Next.js · Node.js · Python · Go · Web3.js |
+| 🛡️ **Security & Controls** | MPC · Contract review strategies · Access control · KYC/AML integrations |
+| 🗳️ **Governance & Identity** | DAO · DID · SSI · Verifiable Credentials |
+| 🔗 **Interoperability** | Cross-chain integrations · Oracles · External data dependencies |
 
 ---
 
-## ⚙️ Tech Stack · Engineering Toolkit
+## ⚙️ Engineering Technology Matrix
 
 <div align="center">
 
-### ⛓️ Blockchain & protocolos
+### ⛓️ Blockchain & Decentralized Infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-0D1117?style=for-the-badge&logo=ethereum&logoColor=627EEA" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Stellar-0D1117?style=for-the-badge&logo=stellar&logoColor=FFFFFF" alt="Stellar" />
-  <img src="https://img.shields.io/badge/Chainlink-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2" alt="Chainlink" />
-  <img src="https://img.shields.io/badge/Web3.js-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3.js" />
-</p>
+<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+<img src="https://img.shields.io/badge/Stellar-00D2FF?style=for-the-badge&logo=stellar&logoColor=0D1117" alt="Stellar" />
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink" />
+<img src="https://img.shields.io/badge/EVM-A78BFA?style=for-the-badge&logo=ethereum&logoColor=white" alt="EVM-compatible ecosystems" />
+<img src="https://img.shields.io/badge/Move-0D1117?style=for-the-badge&labelColor=6D28D9" alt="Move" />
+<img src="https://img.shields.io/badge/Cairo-0D1117?style=for-the-badge&labelColor=00D2FF" alt="Cairo" />
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
 
-<p>
-  <img src="https://img.shields.io/badge/Move-6D28D9?style=for-the-badge" alt="Move" />
-  <img src="https://img.shields.io/badge/Cairo-6D28D9?style=for-the-badge" alt="Cairo" />
-  <img src="https://img.shields.io/badge/WebAssembly-0D1117?style=for-the-badge&logo=webassembly&logoColor=654FF0" alt="WebAssembly" />
-</p>
+### 🧬 Languages & Smart Contracts
 
-### 🧬 Linguagens & smart contracts
+<img
+  src="https://skillicons.dev/icons?i=solidity,rust,js,ts,python,go,java,cs&theme=dark&perline=8"
+  alt="Solidity, Rust, JavaScript, TypeScript, Python, Go, Java, and C#"
+/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="46" height="46" alt="TypeScript" title="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46" alt="Python" title="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="46" height="46" alt="Go" title="Go" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" width="46" height="46" alt="Rust" title="Rust" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" width="46" height="46" alt="Solidity" title="Solidity" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="46" height="46" alt="Java" title="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="46" height="46" alt="C#" title="C#" />
-</p>
+### 🖥️ Frontend & Digital Experiences
 
-<sub>JavaScript · TypeScript · Python · Go · Rust · Solidity · Java · C#</sub>
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,flutter,html,css&theme=dark&perline=7"
+  alt="React, Next.js, Vue, Svelte, Flutter, HTML, and CSS"
+/>
 
-### 🖥️ Frontend & experiência digital
+### 🏗️ Backend & Application Infrastructure
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46" height="46" alt="React" title="React" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="46" height="46" alt="Next.js" title="Next.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="46" height="46" alt="Vue.js" title="Vue.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="46" height="46" alt="Svelte" title="Svelte" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="46" height="46" alt="Flutter" title="Flutter" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46" height="46" alt="HTML5" title="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46" height="46" alt="CSS3" title="CSS3" />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=nodejs,flask,dotnet&theme=dark&perline=3"
+  alt="Node.js, Flask, and .NET"
+/>
 
-<sub>React · Next.js · Vue.js · Svelte · Flutter · HTML5 · CSS3</sub>
+<br /><br />
 
-### 🏗️ Backend & infraestrutura
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
+  width="48"
+  height="48"
+  alt="Apache"
+/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46" height="46" alt="Node.js" title="Node.js" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="46" height="46" alt="Flask" title="Flask" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="46" height="46" alt=".NET" title=".NET" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" title="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="46" height="46" alt="Terraform" title="Terraform" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="46" height="46" alt="Amazon Web Services" title="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="46" height="46" alt="Google Cloud" title="Google Cloud" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="46" height="46" alt="Apache" title="Apache" />
-</p>
+### 🤖 AI, Data & Scientific Computing
 
-<sub>Node.js · Flask · .NET · Docker · Terraform · AWS · Google Cloud · Apache</sub>
+<img
+  src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,postgres,mysql&theme=dark&perline=5"
+  alt="TensorFlow, PyTorch, Anaconda, PostgreSQL, and MySQL"
+/>
 
-### 🤖 IA, dados & computação científica
+<br /><br />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="46" height="46" alt="TensorFlow" title="TensorFlow" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="46" height="46" alt="PyTorch" title="PyTorch" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="46" height="46" alt="Anaconda" title="Anaconda" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="46" height="46" alt="Jupyter" title="Jupyter" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="46" height="46" alt="MySQL" title="MySQL" />
-</p>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+  width="48"
+  height="48"
+  alt="Jupyter"
+/>
 
-<sub>TensorFlow · PyTorch · Anaconda · Jupyter · PostgreSQL · MySQL</sub>
+### 🛠️ Development Environment
 
-### 🛠️ Ferramentas & sistemas operacionais
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux&theme=dark&perline=5"
+  alt="Git, GitHub, VS Code, Visual Studio, and Linux"
+/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="GitHub" title="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" height="46" alt="Visual Studio Code" title="Visual Studio Code" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="46" height="46" alt="Visual Studio" title="Visual Studio" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="46" height="46" alt="Linux" title="Linux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="46" height="46" alt="Windows" title="Windows" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=apple&theme=dark" width="46" height="46" alt="Apple" title="Apple" />
-</p>
+<br /><br />
 
-<sub>Git · GitHub · VS Code · Visual Studio · Linux · Windows · Apple</sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="Apple platforms" />
 
 </div>
 
 ---
 
-## 📡 GitHub · Engineering Activity
+## ♾️ DevOps · Infrastructure as Code · Delivery
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jistriane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=00D2FF"
-    width="49%"
-    alt="Estatísticas públicas do GitHub de Jistriane"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=jistriane&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=A78BFA&currStreakLabel=00D2FF&sideLabels=00D2FF&dates=8B949E"
-    width="49%"
-    alt="Sequência de contribuições no GitHub"
-  />
+<img src="https://img.shields.io/badge/DEVOPS-ENGINEERING-00D2FF?style=for-the-badge&logo=devbox&logoColor=00D2FF&labelColor=0D1117" alt="DevOps Engineering" />
+<img src="https://img.shields.io/badge/IaC-TERRAFORM-A78BFA?style=for-the-badge&logo=terraform&logoColor=A78BFA&labelColor=0D1117" alt="Infrastructure as Code — Terraform" />
+<img src="https://img.shields.io/badge/DELIVERY-AUTOMATION-22D3EE?style=for-the-badge&logo=githubactions&logoColor=22D3EE&labelColor=0D1117" alt="Delivery Automation" />
 
-  <br /><br />
+<br /><br />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jistriane&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9"
-    width="49%"
-    alt="Linguagens mais utilizadas nos repositórios analisados"
-  />
+<img
+  src="https://skillicons.dev/icons?i=docker,terraform,aws,gcp,git,github,linux&theme=dark&perline=7"
+  alt="Docker, Terraform, AWS, Google Cloud, Git, GitHub, and Linux"
+/>
+
+</div>
+
+### Engineering Priorities
+
+- 📦 **Reproducibility** — Containerized environments and consistent build processes.
+- 🏗️ **Infrastructure as Code** — Versioned infrastructure and reviewable changes.
+- 🔐 **Operational Security** — Least privilege, secret handling, and controlled deployment access.
+- 🚀 **Delivery Discipline** — Automated checks, release traceability, and rollback planning.
+- 📡 **Production Readiness** — Monitoring, incident diagnostics, and dependency awareness.
+
+---
+
+## 🧪 QA · Testing · Reliability
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/QA-QUALITY_ENGINEERING-00D2FF?style=for-the-badge&logo=checkmarx&logoColor=00D2FF&labelColor=0D1117" alt="QA — Quality Engineering" />
+<img src="https://img.shields.io/badge/TESTING-AUTOMATION-A78BFA?style=for-the-badge&logo=testinglibrary&logoColor=A78BFA&labelColor=0D1117" alt="Test Automation" />
+<img src="https://img.shields.io/badge/RELIABILITY-QUALITY_GATES-22D3EE?style=for-the-badge&logo=githubactions&logoColor=22D3EE&labelColor=0D1117" alt="Reliability and Quality Gates" />
+
+</div>
+
+### Quality Strategy
+
+| Layer | Engineering focus |
+| :--- | :--- |
+| 🔬 **Unit Testing** | Isolated behavior, edge cases, and deterministic assertions |
+| 🔗 **Integration Testing** | Contract interactions, APIs, wallets, and external dependencies |
+| 🌐 **End-to-End Testing** | User journeys and transaction lifecycle validation |
+| 🛡️ **Smart Contract Verification** | Invariants, fuzzing, access control, and failure-path analysis |
+| ⚡ **Performance Testing** | Latency, throughput, resource consumption, and gas usage |
+| 🚦 **Release Quality** | Automated checks, regression coverage, and deployment verification |
+
+<!--
+PROPOSED QA TOOLKIT:
+These tools were added for the requested QA section.
+Keep only those that accurately reflect your hands-on experience.
+-->
+
+<details>
+<summary><strong>🧰 QA Tooling Reference — Proposed Toolkit</strong></summary>
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=00D2FF" alt="Cypress" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+<img src="https://img.shields.io/badge/Foundry-0D1117?style=for-the-badge&labelColor=6D28D9" alt="Foundry" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
 
 </div>
 
 <p align="center">
-  <sub>
-    Métricas geradas por serviços externos. Linguagens representam os repositórios analisados, não uma avaliação de proficiência.
-  </sub>
+  <sub>Reference tooling for a modern QA workflow; not a certification or verified proficiency claim.</sub>
+</p>
+
+</details>
+
+---
+
+## 💡 What I Build
+
+- ⚡ **DeFi Protocols** — Liquidity mechanisms, lending flows, and production-oriented contract architecture.
+- 🤖 **AI-Integrated dApps** — Risk analysis, intelligent automation, and controlled decision workflows.
+- 🏛️ **RWA Platforms** — Tokenization, asset lifecycle management, and compliance integrations.
+- 🔐 **Web3 Infrastructure** — Secure access patterns, backend integrations, and reliable operations.
+- 🔗 **Cross-Chain Systems** — Interoperability and oracle-connected applications, including Chainlink integrations.
+- 🌟 **Stellar Ecosystems** — Payments, digital assets, and decentralized financial infrastructure.
+
+---
+
+## 🧩 Featured Public Repositories
+
+| Project | Public repository context |
+| :--- | :--- |
+| 🛡️ [RiskGuardian-AI-1.0](https://github.com/Jistriane/RiskGuardian-AI-1.0) | Listed as “Chromion: A Chainlink Hackathon Chromion” · TypeScript |
+| 🏛️ [CredChain-Descentralizado](https://github.com/Jistriane/CredChain-Descentralizado) | Latin Hack / Polkadot hackathon project · TypeScript |
+| 📬 [Wallet-E-mail-box-Dojo](https://github.com/Jistriane/Wallet-E-mail-box-Dojo) | Dojo / Nearx / MultiversX hackathon project · TypeScript |
+| 💬 [Fintech-Crypto-Wallet-com-WhatsApp](https://github.com/Jistriane/Fintech-Crypto-Wallet-com-WhatsApp) | Notus API test project · TypeScript |
+| 🔄 [swap](https://github.com/Jistriane/swap) | Public TypeScript repository |
+
+<p align="center">
+  <a href="https://github.com/Jistriane?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-PUBLIC_REPOSITORIES-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore public repositories" />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub · Achievements
+## 📊 GitHub Engineering Activity
 
 <div align="center">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jistriane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4"
-    width="100%"
-    alt="Troféus gerados a partir da atividade no GitHub"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Jistriane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=A78BFA&text_color=C9D1D9"
+  width="49%"
+  alt="Jistriane's GitHub statistics"
+/>
+<img
+  src="https://streak-stats.demolab.com?user=Jistriane&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=A78BFA&currStreakLabel=00D2FF"
+  width="49%"
+  alt="Jistriane's GitHub contribution streak"
+/>
+
+<br /><br />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jistriane&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9"
+  width="49%"
+  alt="Language distribution across analyzed repositories"
+/>
+
+<br /><br />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Jistriane&bg_color=0D1117&color=00D2FF&line=A78BFA&point=22D3EE&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub contribution activity graph"
+/>
+
+<p>
+  <sub>
+    Cards are generated by third-party services and refresh on their own schedules.
+    Language charts describe analyzed repositories—not proficiency.
+    Profile views are service-counted page loads, not unique visitors.
+  </sub>
+</p>
 
 </div>
 
 ---
 
-## 💡 O que construo
-
-| Frente | Foco de engenharia |
-| :--- | :--- |
-| ⚡ **Protocolos DeFi** | Arquitetura de produção, mecanismos de liquidez e integração de contratos |
-| 🤖 **dApps com IA** | Automação, análise de risco e fluxos inteligentes com controles verificáveis |
-| 🏛️ **Plataformas RWA** | Tokenização, gestão do ciclo de vida dos ativos e integrações de compliance |
-| 🔐 **Infraestrutura Web3** | Segurança, controle de acesso e operação confiável |
-| 🔗 **Sistemas cross-chain** | Interoperabilidade e integrações com oráculos, incluindo Chainlink |
-| 🌟 **Ecossistemas Stellar** | Pagamentos, ativos digitais e infraestrutura financeira |
-
----
-
-## 🤝 Conexões · Human Layer
+## 🏆 GitHub Profile Achievements
 
 <div align="center">
 
-  <p>
-    <strong>Tecnologia de ponta começa com boas conexões.</strong><br />
-    Arquitetura · Engenharia · Ecossistemas · Colaboração
-  </p>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Jistriane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
+  width="100%"
+  alt="Third-party GitHub profile trophies"
+/>
 
-  <a href="https://www.linkedin.com/in/jibso/">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="44"
-      height="44"
-      alt="LinkedIn"
-      title="LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/jistriane">
-    <img
-      src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF"
-      height="36"
-      alt="X"
-      title="X"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jibso87/">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-      width="44"
-      height="44"
-      alt="Instagram"
-      title="Instagram"
-    />
-  </a>
-
-  <br /><br />
-
-  <img
-    src="https://img.shields.io/badge/Discord-jistriane-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"
-    alt="Discord: jistriane"
-  />
-
-  <br /><br />
-
-  <img src="https://img.shields.io/badge/BUILD-SECURE-0D1117?style=flat-square&labelColor=6D28D9&color=0D1117" alt="Build secure" />
-  <img src="https://img.shields.io/badge/THINK-DECENTRALIZED-0D1117?style=flat-square&labelColor=0891B2&color=0D1117" alt="Think decentralized" />
-  <img src="https://img.shields.io/badge/CREATE-REAL_VALUE-0D1117?style=flat-square&labelColor=6D28D9&color=0D1117" alt="Create real value" />
+<p>
+  <sub>Automatically generated profile trophies; not professional certifications.</sub>
+</p>
 
 </div>
 
 ---
 
+## 🤝 Connect · Collaborate · Build
+
 <div align="center">
 
-  <p>
-    <em>
-      Construindo sistemas descentralizados inteligentes<br />
-      que conectam valor real ao futuro das finanças.
-    </em>
-  </p>
+<p>
+  <strong>
+    Architecture · Engineering · Technical Strategy · Ecosystem Collaboration
+  </strong>
+</p>
 
-  <strong>⟨ CODE · TRUST · IMPACT ⟩</strong>
+<a href="https://www.linkedin.com/in/jibso/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Jistriane">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://x.com/jistriane">
+  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00D2FF" alt="X" />
+</a>
+<a href="https://medium.com/@jistriane">
+  <img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=A78BFA" alt="Medium" />
+</a>
+<a href="https://www.instagram.com/jibso87/">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Instagram" />
+</a>
 
-  <br /><br />
+<p>
+  <img src="https://img.shields.io/badge/Discord-%40jistriane-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username: @jistriane" />
+</p>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:6D28D9,100:0D1117&height=120&section=footer"
-    width="100%"
-    alt="Rodapé em gradiente ciano e violeta"
-  />
+<sub>Discord is shown as a handle rather than an unverified direct-message link.</sub>
+
+<br /><br />
+
+<h3>🌌 Building intelligent decentralized systems</h3>
+
+<p>
+  <em>
+    Connecting real-world value to secure, scalable financial infrastructure.
+  </em>
+</p>
+
+<p><strong>⟨ CODE · TRUST · IMPACT ⟩</strong></p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:6D28D9,100:020617&height=120&section=footer"
+  width="100%"
+  alt="Neon cyan and purple footer"
+/>
 
 </div>
