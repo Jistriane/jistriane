@@ -26,7 +26,7 @@ Data notes:
   alt="Animated introduction"
 />
 
-<h1>👋 Hello, I'm Jistriane</h1>
+<h1> Hello, I'm Jistriane</h1>
 
 <h3>Senior Blockchain Architect & Engineer</h3>
 
@@ -35,7 +35,7 @@ Data notes:
   <br />
   🌟 Stellar Ambassador · 🌎 Brazil
   <br />
-  🧭 Independent Web3 / Blockchain Consulting
+   Independent Web3 / Blockchain Consulting
 </p>
 
 <p>
@@ -85,37 +85,37 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 | Pillar | Engineering focus |
 | :--- | :--- |
-| 🌐 **Scalable Architecture** | Clear system boundaries, reliable integrations, and sustainable growth |
-| 🛡️ **Security by Design** | Threat modeling, access control, contract review, and explicit trust assumptions |
-| 🤖 **Intelligent Systems** | AI-assisted risk analysis and automation with verifiable controls |
-| 🏛️ **Real-World Value** | Tokenization, asset lifecycle management, and financial infrastructure |
-| 🧭 **Technical Leadership** | Aligning engineering decisions with business and ecosystem needs |
+|  **Scalable Architecture** | Clear system boundaries, reliable integrations, and sustainable growth |
+|  **Security by Design** | Threat modeling, access control, contract review, and explicit trust assumptions |
+|  **Intelligent Systems** | AI-assisted risk analysis and automation with verifiable controls |
+|  **Real-World Value** | Tokenization, asset lifecycle management, and financial infrastructure |
+|  **Technical Leadership** | Aligning engineering decisions with business and ecosystem needs |
 
 > **Engineering the convergence of AI, DeFi, and real-world assets.**
 
 ---
 
-## 🧠 Core Expertise
+##  Core Expertise
 
 | Domain | Technologies & concepts |
 | :--- | :--- |
-| 🔐 **Smart Contracts** | Solidity · Rust · Move · Cairo · WebAssembly |
-| ⛓️ **Blockchain Ecosystems** | Ethereum · Stellar · Chainlink · EVM-compatible networks |
-| 🖥️ **Full-Stack Web3** | React · Next.js · Node.js · Python · Go · Web3.js |
-| 🤖 **AI + Blockchain** | Intelligent dApps · Risk analysis · Decentralized automation |
-| 💱 **DeFi Systems** | DEX · AMM · Liquidity pools · Lending · Liquidity strategies |
-| 🏛️ **Tokenization & RWA** | On-chain assets · Asset lifecycle management · Compliance integrations |
-| 🛡️ **Security & Controls** | MPC · Smart contract review · Access control · KYC/AML integrations |
-| 🗳️ **Governance & Identity** | DAO · DID · SSI · Verifiable Credentials |
-| 🔗 **Interoperability** | Cross-chain integrations · Oracles · External data dependencies |
+|  **Smart Contracts** | Solidity · Rust · Move · Cairo · WebAssembly |
+|  **Blockchain Ecosystems** | Ethereum · Stellar · Chainlink · EVM-compatible networks |
+|  **Full-Stack Web3** | React · Next.js · Node.js · Python · Go · Web3.js |
+|  **AI + Blockchain** | Intelligent dApps · Risk analysis · Decentralized automation |
+|  **DeFi Systems** | DEX · AMM · Liquidity pools · Lending · Liquidity strategies |
+|  **Tokenization & RWA** | On-chain assets · Asset lifecycle management · Compliance integrations |
+|  **Security & Controls** | MPC · Smart contract review · Access control · KYC/AML integrations |
+|  **Governance & Identity** | DAO · DID · SSI · Verifiable Credentials |
+|  **Interoperability** | Cross-chain integrations · Oracles · External data dependencies |
 
 ---
 
-## ⚙️ Technology Matrix
+##  Technology Matrix
 
 <div align="center">
 
-### ⛓️ Blockchain & Smart Contract Ecosystems
+###  Blockchain & Smart Contract Ecosystems
 
 <img src="https://img.shields.io/badge/Ethereum-0D1117?style=for-the-badge&logo=ethereum&logoColor=627EEA" alt="Ethereum" />
 <img src="https://img.shields.io/badge/Stellar-0D1117?style=for-the-badge&logo=stellar&logoColor=00D2FF" alt="Stellar" />
@@ -124,21 +124,21 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 <img src="https://img.shields.io/badge/Move-LANGUAGE-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Move language" />
 <img src="https://img.shields.io/badge/Cairo-LANGUAGE-00D2FF?style=for-the-badge&labelColor=0D1117" alt="Cairo language" />
 
-### 🧬 Languages
+###  Languages
 
 <img
   src="https://skillicons.dev/icons?i=solidity,rust,js,ts,python,go,java,cs&theme=dark&perline=8"
   alt="Solidity, Rust, JavaScript, TypeScript, Python, Go, Java, and C#"
 />
 
-### 🖥️ Frontend & Mobile
+###  Frontend & Mobile
 
 <img
   src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,flutter,html,css&theme=dark&perline=7"
   alt="React, Next.js, Vue, Svelte, Flutter, HTML, and CSS"
 />
 
-### 🏗️ Backend & Web Services
+###  Backend & Web Services
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,flask,dotnet&theme=dark&perline=3"
@@ -151,7 +151,7 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 &nbsp;
 <img src="https://img.shields.io/badge/Web3.js-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3.js" />
 
-### 🤖 AI & Data Engineering
+###  AI & Data Engineering
 
 <img
   src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,postgres,mysql&theme=dark&perline=5"
@@ -162,7 +162,7 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
 
-### 🛠️ Developer Environment
+###  Developer Environment
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux&theme=dark&perline=5"
@@ -179,7 +179,7 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 ---
 
-## ♾️ DevOps & Infrastructure Engineering
+##  DevOps & Infrastructure Engineering
 
 <div align="center">
 
@@ -198,15 +198,15 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 | Engineering priority | Approach |
 | :--- | :--- |
-| 📦 **Reproducible Environments** | Containerized services and consistent build processes |
-| 🏗️ **Infrastructure as Code** | Versioned infrastructure and reviewable changes |
-| 🔐 **Operational Security** | Least privilege, secret management, and controlled deployment access |
-| 🚀 **Release Engineering** | Automated checks, traceable releases, and rollback planning |
-| 📡 **Production Readiness** | Monitoring, diagnostics, and dependency awareness |
+|  **Reproducible Environments** | Containerized services and consistent build processes |
+|  **Infrastructure as Code** | Versioned infrastructure and reviewable changes |
+|  **Operational Security** | Least privilege, secret management, and controlled deployment access |
+|  **Release Engineering** | Automated checks, traceable releases, and rollback planning |
+|  **Production Readiness** | Monitoring, diagnostics, and dependency awareness |
 
 ---
 
-## 🧪 QA & Reliability Engineering
+##  QA & Reliability Engineering
 
 <div align="center">
 
@@ -220,15 +220,15 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 | Testing layer | Focus |
 | :--- | :--- |
-| 🔬 **Unit Testing** | Deterministic behavior, edge cases, and failure conditions |
-| 🔗 **Integration Testing** | APIs, contract interactions, wallets, and dependencies |
-| 🌐 **End-to-End Testing** | User journeys and transaction lifecycle validation |
-| 🛡️ **Contract Verification** | Invariants, fuzzing, permissions, and adversarial scenarios |
-| ⚡ **Performance Testing** | Throughput, latency, resource consumption, and gas usage |
-| 🚦 **Release Validation** | Regression checks and deployment verification |
+|  **Unit Testing** | Deterministic behavior, edge cases, and failure conditions |
+|  **Integration Testing** | APIs, contract interactions, wallets, and dependencies |
+|  **End-to-End Testing** | User journeys and transaction lifecycle validation |
+|  **Contract Verification** | Invariants, fuzzing, permissions, and adversarial scenarios |
+|  **Performance Testing** | Throughput, latency, resource consumption, and gas usage |
+|  **Release Validation** | Regression checks and deployment verification |
 
 <details>
-<summary><strong>🧰 Proposed QA Toolkit · Expand Tooling Matrix</strong></summary>
+<summary><strong> Proposed QA Toolkit · Expand Tooling Matrix</strong></summary>
 
 <br />
 
@@ -258,26 +258,26 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 ---
 
-## 💡 What I Build
+##  What I Build
 
 - ⚡ **DeFi Protocols** — Liquidity mechanisms, lending flows, and production-oriented architecture.
-- 🤖 **AI-Integrated dApps** — Risk analysis and intelligent automation with explicit controls.
-- 🏛️ **RWA Platforms** — Tokenization and asset lifecycle infrastructure.
-- 🔐 **Secure Web3 Systems** — Contract architecture, access control, and backend integration.
-- 🔗 **Oracle-Connected Applications** — External data integrations and cross-chain workflows.
-- 🌟 **Stellar Ecosystems** — Payments and digital asset infrastructure.
+-  **AI-Integrated dApps** — Risk analysis and intelligent automation with explicit controls.
+-  **RWA Platforms** — Tokenization and asset lifecycle infrastructure.
+-  **Secure Web3 Systems** — Contract architecture, access control, and backend integration.
+-  **Oracle-Connected Applications** — External data integrations and cross-chain workflows.
+-  **Stellar Ecosystems** — Payments and digital asset infrastructure.
 
 ---
 
-## 🧩 Featured Public Projects
+##  Featured Public Projects
 
 | Repository | Public project context | Language |
 | :--- | :--- | :--- |
-| 🛡️ [RiskGuardian-AI-1.0](https://github.com/Jistriane/RiskGuardian-AI-1.0) | Chromion · Chainlink hackathon project | TypeScript |
-| 🏛️ [CredChain-Descentralizado](https://github.com/Jistriane/CredChain-Descentralizado) | Latin Hack · Polkadot hackathon project | TypeScript |
-| 📬 [Wallet-E-mail-box-Dojo](https://github.com/Jistriane/Wallet-E-mail-box-Dojo) | Dojo / Nearx · MultiversX hackathon project | TypeScript |
-| 💬 [Fintech-Crypto-Wallet-com-WhatsApp](https://github.com/Jistriane/Fintech-Crypto-Wallet-com-WhatsApp) | Notus API test project | TypeScript |
-| 🔄 [swap](https://github.com/Jistriane/swap) | Public repository | TypeScript |
+|  [RiskGuardian-AI-1.0](https://github.com/Jistriane/RiskGuardian-AI-1.0) | Chromion · Chainlink hackathon project | TypeScript |
+|  [CredChain-Descentralizado](https://github.com/Jistriane/CredChain-Descentralizado) | Latin Hack · Polkadot hackathon project | TypeScript |
+|  [Wallet-E-mail-box-Dojo](https://github.com/Jistriane/Wallet-E-mail-box-Dojo) | Dojo / Nearx · MultiversX hackathon project | TypeScript |
+|  [Fintech-Crypto-Wallet-com-WhatsApp](https://github.com/Jistriane/Fintech-Crypto-Wallet-com-WhatsApp) | Notus API test project | TypeScript |
+|  [swap](https://github.com/Jistriane/swap) | Public repository | TypeScript |
 
 <div align="center">
 
@@ -289,7 +289,7 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 ---
 
-## 📊 GitHub Activity Dashboard
+##  GitHub Activity Dashboard
 
 <div align="center">
 
@@ -345,7 +345,7 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 ---
 
-## 🏆 Profile Trophies
+##  Profile Trophies
 
 <div align="center">
 
@@ -361,7 +361,7 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 ---
 
-## 🤝 Connect & Collaborate
+##  Connect & Collaborate
 
 <div align="center">
 
@@ -402,7 +402,7 @@ My approach treats smart contracts, applications, infrastructure, governance, an
 
 <br /><br />
 
-<h3>🌌 Architecting Trust. Engineering Value.</h3>
+<h3> Architecting Trust. Engineering Value.</h3>
 
 <p>
   <em>
